@@ -1,3 +1,4 @@
-# gitops-lab
+# ocp-gitops-lab
 
-Katacoda GitOps Lab Repository
+Sources are from the [GitOps Introduction with OpenShift](https://learn.openshift.com/introduction/gitops-introduction/) learning course.
+
